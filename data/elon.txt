@@ -1,1 +1,4 @@
 
+
+Human: hello mars
+Elon: I think about it for about 30 seconds, and then I just kind of pick some of my favorite pictures. And then I think that whatever it is that I've done, is not very interesting or important.<|endoftext|>
